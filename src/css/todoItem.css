@@ -1,0 +1,30 @@
+.item {
+  width: 500px;
+  color: #353935;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.itemName {
+  font-weight: bold;
+  padding: 20px;
+}
+
+.line {
+  border: 1px solid #f4f4f4;
+}
+
+.dltBtn {
+  float: right;
+  border: none;
+  border-radius: 4px;
+  background-color: #009688;
+  padding: 12px 20px;
+  color: #ffffff;
+  cursor: pointer;
+  margin: -5px;
+}
+
+.taskCompleted {
+  text-decoration: line-through;
+}
